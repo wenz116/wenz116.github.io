@@ -8,5 +8,3 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-Click to View My [CV](https://wenz116.github.io/files/ywchen_cv.pdf)
