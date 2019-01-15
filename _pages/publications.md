@@ -5,6 +5,8 @@ permalink: /publication/
 author_profile: true
 ---
 
+{% include base_path %}
+
 **Yi-Wen Chen**, Yi-Hsuan Tsai, Chu-Ya Yang, Yen-Yu Lin and Ming-Hsuan Yang <br />
 *Asian Conference on Computer Vision (ACCV)*, 2018. (**Oral**) <br />
 **Best Student Paper Award Honorable Mention**
