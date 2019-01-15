@@ -1,16 +1,15 @@
 ---
-title: "Unseen Object Segmentation in Videos via Transferable Representations"
+title: "Paper Title Number 1"
 collection: publications
-permalink: /publication/TransferSeg
-excerpt: 'Yi-Wen Chen, Yi-Hsuan Tsai, Chu-Ya Yang, Yen-Yu Lin and Ming-Hsuan Yang'
-date: 2018-12-05
-venue: 'Asian Conference on Computer Vision'
-paperurl: 'https://arxiv.org/abs/1901.02444'
-citation: 'Yi-Wen Chen, Yi-Hsuan Tsai, Chu-Ya Yang, Yen-Yu Lin, Ming-Hsuan Yang, "Unseen Object Segmentation in Videos via Transferable Representations", Asian Conference on Computer Vision (ACCV), 2018. (Oral).'
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-**Yi-Wen Chen**, Yi-Hsuan Tsai, Chu-Ya Yang, Yen-Yu Lin and Ming-Hsuan Yang <br />
-*Asian Conference on Computer Vision (ACCV)*, 2018. (**Oral**) <br />
-**Best Student Paper Award Honorable Mention**
+This paper is about the number 1. The number 2 is left for future work.
 
-[[Paper]](https://arxiv.org/abs/1901.02444)
-[[Project Page]](https://github.com/wenz116/TransferSeg)
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
