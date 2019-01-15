@@ -12,5 +12,5 @@ citation: 'Yi-Wen Chen, Yi-Hsuan Tsai, Chu-Ya Yang, Yen-Yu Lin, Ming-Hsuan Yang,
 *Asian Conference on Computer Vision (ACCV)*, 2018. (**Oral**) <br />
 **Best Student Paper Award Honorable Mention**
 
-[Paper](https://arxiv.org/abs/1901.02444)
-[Project Page](https://github.com/wenz116/TransferSeg)
+[[Paper]](https://arxiv.org/abs/1901.02444)
+[[Project Page]](https://github.com/wenz116/TransferSeg)
