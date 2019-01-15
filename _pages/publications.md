@@ -2,9 +2,6 @@
 permalink: /publications/
 title: "Publications"
 author_profile: true
-redirect_from: 
-  - /publications/
-  - /publications.html
 ---
 
 **Yi-Wen Chen**, Yi-Hsuan Tsai, Chu-Ya Yang, Yen-Yu Lin and Ming-Hsuan Yang <br />
