@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yi-Wen Chen"
 title_separator          : "-"
 name                     : &name "Yi-Wen Chen"
-description              : &description "Master's student at National Taiwan University, Research Assistant at Academia Sinica"
+description              : &description "Ph.D. student at University of California, Merced"
 url                      : https://wenz116.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wenz116/wenz116.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Yi-Wen Chen"
   avatar           : "ywchen.jpg"
-  bio              : "Master's student at National Taiwan University, Research Assistant at Academia Sinica"
-  location         : "Taipei, Taiwan"
+  bio              : "Ph.D. student at University of California, Merced"
+  location         : "Merced"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=PksDjvkAAAAJ&hl=en"
-  email            : "chenyiwena@gmail.com"
+  email            : "ychen319@ucmerced.edu"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
