@@ -6,7 +6,10 @@ author_profile: true
 
 ## VOSTR: Video Object Segmentation via Transferable Representations
 <ins>Yi-Wen Chen</ins>, Yi-Hsuan Tsai, Yen-Yu Lin and Ming-Hsuan Yang <br />
-*International Journal of Computer Vision (IJCV)*, 2019.
+*International Journal of Computer Vision (IJCV)*, 2020.
+
+[[Paper]](https://wenz116.github.io/files/IJCV20_VOSTR.pdf)
+[[Project Page]](https://github.com/wenz116/TransferSeg)
 
 ## Referring Expression Object Segmentation with Caption-Aware Consistency
 <ins>Yi-Wen Chen</ins>, Yi-Hsuan Tsai, Tiantian Wang, Yen-Yu Lin and Ming-Hsuan Yang <br />
