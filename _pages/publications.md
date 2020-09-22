@@ -4,6 +4,13 @@ title: "Publications"
 author_profile: true
 ---
 
+## Regularizing Meta-Learning via Gradient Dropout
+Hung-Yu Tseng*, <ins>Yi-Wen Chen*</ins>, Yi-Hsuan Tsai, Sifei Liu, Yen-Yu Lin and Ming-Hsuan Yang <br />
+*Asian Conference on Computer Vision (ACCV)*, 2020.
+
+[[Paper]](https://arxiv.org/abs/2004.05859)
+[[Project Page]](https://github.com/hytseng0509/DropGrad)
+
 ## VOSTR: Video Object Segmentation via Transferable Representations
 <ins>Yi-Wen Chen</ins>, Yi-Hsuan Tsai, Yen-Yu Lin and Ming-Hsuan Yang <br />
 *International Journal of Computer Vision (IJCV)*, 2020.
