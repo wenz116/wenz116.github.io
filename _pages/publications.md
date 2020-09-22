@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Regularizing Meta-Learning via Gradient Dropout
-Hung-Yu Tseng*, <ins>Yi-Wen Chen*</ins>, Yi-Hsuan Tsai, Sifei Liu, Yen-Yu Lin and Ming-Hsuan Yang <br />
+Hung-Yu Tseng\*, <ins>Yi-Wen Chen</ins>\*, Yi-Hsuan Tsai, Sifei Liu, Yen-Yu Lin and Ming-Hsuan Yang <br />
 *Asian Conference on Computer Vision (ACCV)*, 2020.
 
 [[Paper]](https://arxiv.org/abs/2004.05859)
