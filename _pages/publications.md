@@ -6,7 +6,7 @@ author_profile: true
 
 ## End-to-end Multi-modal Video Temporal Grounding
 <ins>Yi-Wen Chen</ins>, Yi-Hsuan Tsai and Ming-Hsuan Yang <br />
-*Conference on Neural Information Processing Systems (NeurIPS)*, 2021.
+*Neural Information Processing Systems (NeurIPS)*, 2021.
 
 [[Paper]](https://arxiv.org/abs/2107.05624)
 
