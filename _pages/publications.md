@@ -4,6 +4,10 @@ title: "Publications"
 author_profile: true
 ---
 
+## Video Salient Object Detection via Contrastive Features and Attention Modules
+<ins>Yi-Wen Chen</ins>, Xiaojie Jin, Xiaohui Shen and Ming-Hsuan Yang <br />
+*IEEE Winter Conference on Applications of Computer Vision (WACV)*, 2022.
+
 ## End-to-end Multi-modal Video Temporal Grounding
 <ins>Yi-Wen Chen</ins>, Yi-Hsuan Tsai and Ming-Hsuan Yang <br />
 *Neural Information Processing Systems (NeurIPS)*, 2021.
