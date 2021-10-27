@@ -8,11 +8,14 @@ author_profile: true
 <ins>Yi-Wen Chen</ins>, Xiaojie Jin, Xiaohui Shen and Ming-Hsuan Yang <br />
 *IEEE Winter Conference on Applications of Computer Vision (WACV)*, 2022.
 
+[[Paper]](https://wenz116.github.io/files/WACV22_video_saliency.pdf)
+
 ## End-to-end Multi-modal Video Temporal Grounding
 <ins>Yi-Wen Chen</ins>, Yi-Hsuan Tsai and Ming-Hsuan Yang <br />
 *Neural Information Processing Systems (NeurIPS)*, 2021.
 
 [[Paper]](https://arxiv.org/abs/2107.05624)
+[[Project Page]](https://github.com/wenz116/DRFT)
 
 ## Regularizing Meta-Learning via Gradient Dropout
 Hung-Yu Tseng\*, <ins>Yi-Wen Chen</ins>\*, Yi-Hsuan Tsai, Sifei Liu, Yen-Yu Lin and Ming-Hsuan Yang <br />
