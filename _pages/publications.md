@@ -4,6 +4,13 @@ title: "Publications"
 author_profile: true
 ---
 
+## Understanding Synonymous Referring Expressions via Contrastive Features
+<ins>Yi-Wen Chen</ins>, Yi-Hsuan Tsai and Ming-Hsuan Yang <br />
+*International Journal of Computer Vision (IJCV)*, 2022.
+
+[[Paper]](https://arxiv.org/abs/2104.10156)
+
+
 ## Video Salient Object Detection via Contrastive Features and Attention Modules
 <ins>Yi-Wen Chen</ins>, Xiaojie Jin, Xiaohui Shen and Ming-Hsuan Yang <br />
 *IEEE Winter Conference on Applications of Computer Vision (WACV)*, 2022.
