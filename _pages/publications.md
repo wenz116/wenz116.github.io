@@ -4,12 +4,18 @@ title: "Publications"
 author_profile: true
 ---
 
+## Text-Driven Image Editing via Learnable Regions
+Yuanze Lin, <ins>Yi-Wen Chen</ins>, Yi-Hsuan Tsai, Lu Jiang, Ming-Hsuan Yang <br />
+*arXiv*, 2023.
+
+[[Paper]](https://arxiv.org/abs/2311.16432)
+[[Project Page]](https://yuanze-lin.me/LearnableRegions_page/)
+
 ## Understanding Synonymous Referring Expressions via Contrastive Features
 <ins>Yi-Wen Chen</ins>, Yi-Hsuan Tsai and Ming-Hsuan Yang <br />
 *International Journal of Computer Vision (IJCV)*, 2022.
 
 [[Paper]](https://arxiv.org/abs/2104.10156)
-
 
 ## Video Salient Object Detection via Contrastive Features and Attention Modules
 <ins>Yi-Wen Chen</ins>, Xiaojie Jin, Xiaohui Shen and Ming-Hsuan Yang <br />
