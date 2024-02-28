@@ -4,9 +4,15 @@ title: "Publications"
 author_profile: true
 ---
 
+## Generalizable Entity Grounding via Assistance of Large Language Model
+Lu Qi\*, <ins>Yi-Wen Chen</ins>\*, Lehan Yang\*, Tiancheng Shen, Xiangtai Li, Weidong Guo, Yu Xu and Ming-Hsuan Yang <br />
+*arXiv*, 2024.
+
+[[Paper]](https://arxiv.org/abs/2402.02555)
+
 ## Text-Driven Image Editing via Learnable Regions
-Yuanze Lin, <ins>Yi-Wen Chen</ins>, Yi-Hsuan Tsai, Lu Jiang, Ming-Hsuan Yang <br />
-*arXiv*, 2023.
+Yuanze Lin, <ins>Yi-Wen Chen</ins>, Yi-Hsuan Tsai, Lu Jiang and Ming-Hsuan Yang <br />
+*IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2024.
 
 [[Paper]](https://arxiv.org/abs/2311.16432)
 [[Project Page]](https://yuanze-lin.me/LearnableRegions_page/)
