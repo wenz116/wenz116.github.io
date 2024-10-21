@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yi-Wen Chen"
 title_separator          : "-"
 name                     : &name "Yi-Wen Chen"
-description              : &description "Ph.D. student at University of California, Merced"
+description              : &description "Ph.D. candidate at University of California, Merced"
 url                      : https://wenz116.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wenz116/wenz116.github.io"
@@ -100,7 +100,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/yi-wen-chen/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
