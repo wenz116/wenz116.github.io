@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yi-Wen Chen"
 title_separator          : "-"
 name                     : &name "Yi-Wen Chen"
-description              : &description "Ph.D. candidate at University of California, Merced"
+description              : &description "Ph.D. at University of California, Merced"
 url                      : https://wenz116.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wenz116/wenz116.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yi-Wen Chen"
   avatar           : "ywchen.jpg"
-  bio              : "Ph.D. student at University of California, Merced"
+  bio              : "Ph.D. at University of California, Merced"
   location         : "CA, USA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=PksDjvkAAAAJ&hl=en"

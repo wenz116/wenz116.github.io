@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year Ph.D. candidate in the Department of Electrical Engineering and Computer Science at University of California, Merced, under the supervision of Prof. [Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/).
-Before that, I received my B.S. and M.S. degrees from the Department of Electrical Engineering at National Taiwan University in 2017 and 2019, respectively.
+I completed my Ph.D. in Electrical Engineering and Computer Science from University of California, Merced in 2024, under the supervision of Prof. [Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/) in the [Vision and Learning Lab](http://vllab.ucmerced.edu/). Before that, I received my B.S. and M.S. degrees in Electrical Engineering from National Taiwan University in 2017 and 2019, respectively.
 
-My research interests are **Computer Vision** and **Deep Learning**, with a primary focus on vision-language learning and video understanding. Here is my [CV](https://wenz116.github.io/files/Yi-Wen_Chen_cv.pdf).
+My research interests lie in **Computer Vision** and **Deep Learning**, with a primary focus on vision-language learning, video understanding and generative models. Here is my [CV](https://wenz116.github.io/files/Yi-Wen_Chen_cv.pdf).
 
-<span style="color:#FF8C00">**I am actively seeking research scientist positions, starting in 2025.**</span>
+<span style="color:#FF8C00">I am actively seeking research scientist positions starting in 2025.</span>
