@@ -4,6 +4,13 @@ title: "Publications"
 author_profile: true
 ---
 
+## IllumiCraft: Unified Geometry and Illumination Diffusion for Controllable Video Generation
+Yuanze Lin, <ins>Yi-Wen Chen</ins>, Yi-Hsuan Tsai, Ronald Clark and Ming-Hsuan Yang <br />
+*Neural Information Processing Systems (NeurIPS)*, 2025.
+
+[[Paper]](https://arxiv.org/abs/2506.03150)
+[[Project Page]](https://yuanze-lin.me/IllumiCraft_page/)
+
 ## Generalizable Entity Grounding via Assistance of Large Language Model
 Lu Qi\*, <ins>Yi-Wen Chen</ins>\*, Lehan Yang\*, Tiancheng Shen, Xiangtai Li, Weidong Guo, Yu Xu and Ming-Hsuan Yang <br />
 *arXiv*, 2024.
